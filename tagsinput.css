@@ -101,3 +101,11 @@
   outline: 0;
   background-color: #428bca;
 }
+
+.tt-suggestion.tt-cursor {
+    color: #fff;
+    background-color: #2c3e50;
+}
+.tt-suggestion.tt-cursor a {
+    color: #fff;
+}
